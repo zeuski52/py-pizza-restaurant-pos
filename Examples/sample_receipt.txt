@@ -1,0 +1,29 @@
+__________________________________________________________
+
+                  Arnold's Amazing Eats!                  
+__________________________________________________________
+
+                   Customer Information                   
+
+Order Type: Pick-up
+Name: Arnold Eats
+Phone Number: 123451
+
+__________________________________________________________
+
+                    Order Information                     
+
+                                Item       Item           
+Order                            Qty      Price      Total
+____________________          ______    _______    _______
+Cheese Pizza                       1    $  8.99    $  8.99
+Pepperoni Pizza                    2    $  9.99    $ 19.98
+
+                                      Sub Total    $ 28.97
+                                      Tax (13%)    $  3.77
+                                                   _______
+                                          TOTAL    $ 32.74
+
+
+      Thank you for eating at Arnold's Amazing Eats! 
+      
